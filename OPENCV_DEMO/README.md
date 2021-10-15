@@ -20,3 +20,5 @@
   LIBS += -L *\install\x86\mingw\lib\libopencv_*.a
   ```
 
+- [https://blog.csdn.net/Mr_robot_strange/article/details/110677323](详细移植步骤)
+
